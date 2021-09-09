@@ -3,7 +3,7 @@ A Pathologist
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <Title>"Assignment 5.3"</Title>
+        <title>Assignment 5.3</title>
         </head>
         <body>
             <h1>WEB 200 Fundamentals of Web Development</h1>

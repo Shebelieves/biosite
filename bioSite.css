@@ -1,9 +1,6 @@
 body{
     background-color:#5496bf;
 }
-.about{
-    text-align: center;
-}
 .index h1{
     font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";
     font-weight:700px;
@@ -19,6 +16,9 @@ body{
 .microscope{
     width: 600px;
     height: 825px;
+}
+.about{
+    text-align: center;
 }
 .About h1{
     font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";

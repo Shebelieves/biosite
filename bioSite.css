@@ -17,14 +17,20 @@ body{
     width: 600px;
     height: 825px;
 }
-.about{
-    text-align: center;
-}
 .About h1{
     font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";
     font-weight:700px; 
+    text-align:left;
 }
 .chico{
     width: 400px;
     Height:822px;
+}
+.Hobby{
+    font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";
+    font-weight: 700;
+}
+.collies{
+    width: 550px;
+    height: 732px;
 }

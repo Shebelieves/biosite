@@ -22,7 +22,9 @@ body{
     font-weight:700px; 
     text-align:left;
 }
-.chico{
+.chico img{
+    margin: auto 5px;
+    float:left;
     width: 400px;
     Height:822px;
 }

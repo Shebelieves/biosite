@@ -30,6 +30,11 @@ body{
     font-weight:700px; 
     text-align:left;
 }
+.bio{
+    font-family: "libre baskerville","verdana", "Arial","san-serif";
+    font-weight: 300;
+    float: left;
+}
 .chico image{
     margin: auto 5px;
     float:right;

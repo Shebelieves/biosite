@@ -1,6 +1,13 @@
 body{
     background-color:#5496bf;
 }
+.header-right{
+    background-color: #735d5d;
+    float:right;
+    color:black;
+    border:solid, #162c40, 2px;
+    margin:10px;
+}
 .index h1{
     font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";
     font-weight:700px;
@@ -22,9 +29,9 @@ body{
     font-weight:700px; 
     text-align:left;
 }
-.chico img{
+.chico image{
     margin: auto 5px;
-    float:left;
+    float:right;
     width: 400px;
     Height:822px;
 }

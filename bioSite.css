@@ -4,7 +4,6 @@ body{
 .header-right{
     float:right;
     color:black;
-    border:solid, #162c40, 2px;
     margin:10px;
     font-size:2em;
     font-family:"kaisei+decol", "verdana", "san-serif";

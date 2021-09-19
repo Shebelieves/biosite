@@ -2,11 +2,13 @@ body{
     background-color:#5496bf;
 }
 .header-right{
-    background-color: #735d5d;
     float:right;
     color:black;
     border:solid, #162c40, 2px;
     margin:10px;
+    font-size:2em;
+    font-family:"kaisei+decol", "verdana", "san-serif";
+    font-weight: 300;
 }
 .index h1{
     font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";

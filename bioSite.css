@@ -64,6 +64,6 @@ body{
     width:700px;
     height:520px;
 }
-.link{
+a:link{
     text-decoration: none;
 }

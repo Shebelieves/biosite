@@ -64,3 +64,6 @@ body{
     width:700px;
     height:520px;
 }
+.link{
+    text-decoration: none;
+}

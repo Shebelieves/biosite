@@ -1,6 +1,7 @@
 body{
     background-color:#5496bf;
 }
+
 .header-right{
     float:right;
     color:black;
@@ -43,8 +44,7 @@ body{
     float:right;
     width: 400px;
     Height:822px;
-    border-style:solid;
-    border-color: #162c40, #162c40, #162c40, #162c40;
+    border-style:none;
 }
 .Hobby{
     font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";

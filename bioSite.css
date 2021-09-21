@@ -53,14 +53,20 @@ body{
     font-weight:700;
 }
 .collies{
+    font-family: "libre baskerville","verdana", "Arial","san-serif";
+    font-weight: 300;
     width: 600px;
     height: 450px;
 }
 .sip{
+    font-family: "libre baskerville","verdana", "Arial","san-serif";
+    font-weight: 300;
     width: 600px;
     height: 450px;
 }
 .books{
+    font-family: "libre baskerville","verdana", "Arial","san-serif";
+    font-weight: 300;
     width:700px;
     height:520px;
 }

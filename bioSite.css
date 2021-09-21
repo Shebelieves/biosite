@@ -20,10 +20,14 @@ body{
     font-weight: 400;
 }
 .church{
+    font-family: "libre baskerville","verdana", "Arial","san-serif";
+    font-weight: 300;
     width:700px;
     height: 338px;
 }
 .microscope{
+    font-family: "libre baskerville","verdana", "Arial","san-serif";
+    font-weight: 300;
     width: 600px;
     height: 725px;
 }

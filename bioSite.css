@@ -26,6 +26,9 @@ body{
     font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";
     font-weight: 400;
 }
+.image-title{
+    text-align: center;
+}
 .church{
     font-family: "libre baskerville","verdana", "Arial","san-serif";
     font-weight: 300;

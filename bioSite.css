@@ -42,13 +42,13 @@ body{
     width: 400px;
     height: 550px;
 }
-.gallery-item{
+/*End home page*/
+
+/*About page start*/
+.about-container{
     display:grid;
     grid-template-columns: auto auto;
 }
-/*End home page*/
-/*About page start*/
-
 .About h1{
     font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";
     font-weight:700px; 
@@ -70,6 +70,9 @@ body{
     Height:822px;
     border-style: solid;
     border-color: #162c40, #162C40, #162c40, #162c40;
+}
+.clear{
+    clear:both
 }
 /*About page ends*/
 .Hobby{

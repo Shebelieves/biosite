@@ -41,6 +41,10 @@ body{
     height: 550px;
 }
 /*About page start*/
+.gallery-item{
+    display:grid;
+    grid-template-columns: auto auto;
+}
 .About h1{
     font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";
     font-weight:700px; 

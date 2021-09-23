@@ -40,6 +40,7 @@ body{
     width: 400px;
     height: 550px;
 }
+/*About page start*/
 .About h1{
     font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";
     font-weight:700px; 
@@ -54,13 +55,14 @@ body{
     line-height: 1.6;
 }
 .chico{
-    margin: auto 5px;
+    margin:20px;
     float:right;
     width: 400px;
     Height:822px;
     border-style: solid;
     border-color: #162c40, #162C40, #162c40, #162c40;
 }
+/*About page ends*/
 .Hobby{
     font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";
     font-weight:700;

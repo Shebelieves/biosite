@@ -16,6 +16,8 @@ body{
     font-weight: 300;
 }
 /* Navigation Bar Ends*/
+
+/*Start Home Page*/
 .index h1{
     font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";
     font-weight:700px;
@@ -40,11 +42,13 @@ body{
     width: 400px;
     height: 550px;
 }
-/*About page start*/
 .gallery-item{
     display:grid;
     grid-template-columns: auto auto;
 }
+/*End home page*/
+/*About page start*/
+
 .About h1{
     font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";
     font-weight:700px; 

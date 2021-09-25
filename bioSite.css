@@ -66,12 +66,14 @@ body{
     padding:10px;
     line-height: 1.6;
     border-style: solid;
+    margin:20px;
 }
 .chico{
     margin:20px;
     float:right;
     width: 400px;
     Height:822px;
+    padding:10px;
     border-style: solid;
     border-color: #162c40, #162C40, #162c40, #162c40;
 }

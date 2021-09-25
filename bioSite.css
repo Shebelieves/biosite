@@ -61,7 +61,8 @@ body{
     font-family: "libre baskerville","verdana", "Arial","san-serif";
     font-weight: 300;
     float: left;
-    width: 45%;
+    width: 600px;
+    height:450px;
     padding:10px;
     line-height: 1.6;
     border-style: solid;

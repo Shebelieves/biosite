@@ -102,5 +102,7 @@ body{
 a:link{
     text-decoration: none;
     text-decoration-color: #162c40;
+}
+.footer{
     text-align: center;
 }

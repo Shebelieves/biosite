@@ -30,6 +30,10 @@ body{
     text-align: center;
 }
 .church{
+    grid-column-start: 2;
+    grid-column-end:3;
+    grid-row-start:2;
+    grid-row-end:3;
     font-family: "libre baskerville",verdana, Arial,sans-serif;
     font-weight: 300;
     width:700px;

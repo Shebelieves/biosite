@@ -37,12 +37,14 @@ body{
 }
 .microscope{
     font-family: "libre baskerville",verdana, Arial, sans-serif;
+    text-align: center;
     font-weight: 300;
     width: 400px;
     height: 550px;
 }
 .student{
     font-family: "libre baskerville",verdana, Arial,sans-serif;
+    text-align: center;
     width: 400px;
     height: 550px;
 }

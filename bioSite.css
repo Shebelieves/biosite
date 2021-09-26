@@ -12,37 +12,37 @@ body{
     color:black;
     margin:10px;
     font-size:2em;
-    font-family:"kaisei+decol", "verdana", "san-serif";
+    font-family:kaisei decol, "verdana", sans-serif;
     font-weight: 300;
 }
 /* Navigation Bar Ends*/
 
 /*Start Home Page*/
 .index h1{
-    font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";
+    font-family:"Kaisei Decol",verdana, Arial, sans-serif;
     font-weight:700px;
 }
 .index h3{
-    font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";
+    font-family:"Kaisei Decol", verdana, Arial, sans-serif;
     font-weight: 400;
 }
 .image-title{
     text-align: center;
 }
 .church{
-    font-family: "libre baskerville","verdana", "Arial","san-serif";
+    font-family: "libre baskerville",verdana, Arial,sans-serif;
     font-weight: 300;
     width:700px;
     height: 338px;
 }
 .microscope{
-    font-family: "libre baskerville","verdana", "Arial","san-serif";
+    font-family: "libre baskerville",verdana, Arial, sans-serif;
     font-weight: 300;
     width: 400px;
     height: 550px;
 }
 .student{
-    font-family: "libre baskerville","verdana", "Arial","san-serif";
+    font-family: "libre baskerville",verdana, Arial,sans-serif;
     width: 400px;
     height: 550px;
 }
@@ -54,12 +54,12 @@ body{
     grid-template-columns: auto auto;
 }
 .About h1{
-    font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";
+    font-family:"Kaisei Decol",verdana, Arial, sans-serif;
     font-weight:700px; 
     text-align:left;
 }
 .bio{
-    font-family: "libre baskerville","verdana", "Arial","san-serif";
+    font-family: "libre baskerville",verdana, Arial,sans-serif;
     font-weight: 400;
     float: left;
     width: 600px;
@@ -79,23 +79,23 @@ body{
 }
 /*About page ends*/
 .Hobby{
-    font-family:"Kaisei+Decol","verdana", "Arial", "san-serif";
+    font-family:"Kaisei Decol",verdana, Arial, sans-serif;
     font-weight:700;
 }
 .collies{
-    font-family: "libre baskerville","verdana", "Arial","san-serif";
+    font-family: "libre baskerville",verdana, Arial,sans-serif;
     font-weight: 300;
     width: 600px;
     height: 450px;
 }
 .sip{
-    font-family: "libre baskerville","verdana", "Arial","san-serif";
+    font-family: "libre baskerville",verdana, Arial,sans-serif;
     font-weight: 300;
     width: 600px;
     height: 450px;
 }
 .books{
-    font-family: "libre baskerville","verdana", "Arial","san-serif";
+    font-family: "libre baskerville",verdana, Arial,sans-serif;
     font-weight: 300;
     width:700px;
     height:520px;

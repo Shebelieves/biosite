@@ -7,7 +7,7 @@ body{
     grid-template-columns: 700px 700px 700px;
 }
 /* Navigation Bar */
-#navbar{
+.header-right{
     float:right;
     color:black;
     margin:5px;

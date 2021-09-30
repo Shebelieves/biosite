@@ -9,7 +9,7 @@ body{
 /* Navigation Bar */
 .header-right{
     float:right;
-    color:black;
+    border-bottom: #735d5d;
     margin:5px;
     font-size:2em;
     font-family:"kaisei decol", "verdana", sans-serif;
@@ -93,7 +93,7 @@ body{
 }
 a:link{
     text-decoration: none;
-    text-decoration-color: #162c40;
+    text-decoration-color: black;
 }
 .footer{
     text-align: center;

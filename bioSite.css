@@ -55,7 +55,7 @@ body{
     font-weight:700px; 
     text-align:left;
 }
-#bio{
+.bio{
     font-family: "libre baskerville",verdana, Arial,sans-serif;
     font-weight: 400;
     float: left;

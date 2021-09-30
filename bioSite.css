@@ -1,10 +1,11 @@
 body{
+    margin: 0;
     background-color:#5496bf;
 }
 /*Image Grid for index*/
 .gallery-item{
     display:grid;
-    grid-template-columns: 700px 700px 700px;
+    grid-template-columns: auto auto auto
 }
 /* Navigation Bar */
 .header-right{
@@ -101,6 +102,8 @@ a:link{
     text-decoration: none;
     color: black;
 }
-.footer{
+footer{
     text-align: center;
+    width: 100%;
+    background-color: #735d5d;
 }

@@ -81,6 +81,9 @@ body{
     border-style: solid;
     border-color: #162c40, #162C40, #162c40, #162c40;
 }
+.maygp a:link{
+    color:black;
+    }
 /*About page ends*/
 .Hobby{
     font-family:"Kaisei Decol",verdana, Arial, sans-serif;

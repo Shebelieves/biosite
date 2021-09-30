@@ -46,7 +46,7 @@ body{
 /*End home page*/
 
 /*About page start*/
-.header-right{
+.about{
     display:grid;
     grid-template-columns: auto auto;
 }

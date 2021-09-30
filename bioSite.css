@@ -94,7 +94,7 @@ body{
 }
 a:link{
     text-decoration: none;
-    text-decoration-color: black;
+    color: black;
 }
 .footer{
     text-align: center;

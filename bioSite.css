@@ -9,11 +9,16 @@ body{
 /* Navigation Bar */
 .header-right{
     float:right;
-    background-color: #735d5d;
     margin:5px;
     font-size:2em;
     font-family:"kaisei decol", "verdana", sans-serif;
     font-weight: 300;
+}
+.header-right a{
+    color: black;
+}
+.header-right a:hover{
+    text-decoration: wavy;
 }
 /* Navigation Bar Ends*/
 

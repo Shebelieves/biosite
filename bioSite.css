@@ -84,7 +84,7 @@ body{
     color:black
 }
 /*About page ends*/
-.Hobby{
+h1{
     font-family:"Kaisei Decol",verdana, Arial, sans-serif;
     font-weight:700;
 }
@@ -95,8 +95,8 @@ body{
     text-align: center;
 }
 .sip{
-    font-family: "libre baskerville",verdana, Arial,sans-serif;
-    font-weight: 300;
+    font-family:"libre baskerville",verdana, Arial,sans-serif;
+    font-weight:300;
     text-align:justify;
 }
 .books{

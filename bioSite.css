@@ -10,7 +10,7 @@ body{
 /* Navigation Bar */
 .header-right{
     float:right;
-    margin:5px;
+    margin:0;
     font-size:2em;
     font-family:"kaisei decol", "verdana", sans-serif;
     font-weight: 300;
@@ -25,11 +25,14 @@ body{
 /* Navigation Bar Ends*/
 
 /*Start Home Page*/
-.index h1{
-    font-family:"Kaisei Decol",verdana, Arial, sans-serif;
-    font-weight:700px;
+.card{
+    
 }
-.index h3{
+.title{
+    font-family:"Kaisei Decol",verdana, Arial, sans-serif;
+    font-weight:700;
+}
+.path{
     font-family:"Kaisei Decol", verdana, Arial, sans-serif;
     font-weight: 400;
 }
@@ -37,7 +40,7 @@ body{
     text-align: center;
     font-family: "libre baskerville",verdana, Arial,sans-serif;
 }
-.church{
+.church-caption{
     font-family: "libre baskerville",verdana, Arial,sans-serif;
     font-weight: 300;
 }
@@ -53,37 +56,33 @@ body{
 /*End home page*/
 
 /*About page start*/
-.about{
-    display:grid;
-    grid-template-columns: auto auto;
-}
-.About h1{
+
+.head{
     font-family:"Kaisei Decol",verdana, Arial, sans-serif;
-    font-weight:700px; 
+    font-weight:700; 
     text-align:left;
     width:50%;
+    margin:5px;
+    padding:2px;
 }
-.bio{
+#bio{
     font-family: "libre baskerville",verdana, Arial,sans-serif;
     font-weight: 400;
-    float: left;
-    width: 600px;
-    height:450px;
-    padding:10px;
+    padding:5px;
     line-height: 1.6;
-    margin-left:10px;
+    margin:5px;
 }
-.chico{
-    margin-left:20px;
+#chico{
+    margin:0;
     float:right;
     width: 400px;
-    Height:822px;
+    Height:722px;
     border-style: solid;
     border-color: #162c40, #162C40, #162c40, #162c40;
 }
-.maygp a:link{
-    color:black;
-    }
+.grace a:link{
+    color:black
+}
 /*About page ends*/
 .Hobby{
     font-family:"Kaisei Decol",verdana, Arial, sans-serif;

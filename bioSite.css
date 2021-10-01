@@ -26,7 +26,7 @@ body{
 
 /*Start Home Page*/
 .card{
-    
+
 }
 .title{
     font-family:"Kaisei Decol",verdana, Arial, sans-serif;
@@ -91,14 +91,18 @@ body{
 .collies{
     font-family: "libre baskerville",verdana, Arial,sans-serif;
     font-weight: 300;
+    float: right;
+    text-align: center;
 }
 .sip{
     font-family: "libre baskerville",verdana, Arial,sans-serif;
     font-weight: 300;
+    text-align:justify;
 }
 .books{
     font-family: "libre baskerville",verdana, Arial,sans-serif;
     font-weight: 300;
+    clear:right;
 }
 a:link{
     text-decoration: none;

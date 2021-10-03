@@ -96,14 +96,13 @@ h1{
     font-weight: 300;
     float: right;
     text-align: center;
+    clear: left;
 }
 .sip{
     font-family:"libre baskerville",verdana, Arial,sans-serif;
     font-weight:300;
-    margin-top: 10px;
-}
-.sip-title{
     text-align: center;
+    float: left;
 }
 .books{
     font-family: "libre baskerville",verdana, Arial,sans-serif;

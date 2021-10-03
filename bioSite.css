@@ -2,11 +2,6 @@ body{
     margin: 0;
     background-color:#5496bf;
 }
-/*Image Grid for index*/
-.gallery-item{
-    display:grid;
-    grid-template-columns: auto auto auto
-}
 /* Navigation Bar */
 .header-right{
     float:right;
@@ -35,22 +30,21 @@ body{
     font-weight: 400;
     margin: 2px;
 }
-.image-title{
-    text-align: center;
-    font-family: "libre baskerville",verdana, Arial,sans-serif;
-}
-.church-caption{
+.church{
     font-family: "libre baskerville",verdana, Arial,sans-serif;
     font-weight: 300;
 }
 .microscope{
     font-family: "libre baskerville",verdana, Arial, sans-serif;
-    text-align: center;
     font-weight: 300;
+    float: left;
+    clear:right;
+    text-align: center;
 }
 .student{
     font-family: "libre baskerville",verdana, Arial,sans-serif;
     text-align: center;
+    float: right;
 }
 /*End home page*/
 
@@ -84,9 +78,17 @@ body{
 }
 /*About page ends*/
 /*hobby page starts*/
+}
 h1{
     font-family:"Kaisei Decol",verdana, Arial, sans-serif;
     font-weight:700;
+}
+.border{
+    border-style:ridge;
+    border-color: #735d5d;
+    border
+    padding:3px;
+    
 }
 .collies{
     font-family: "libre baskerville",verdana, Arial,sans-serif;

@@ -19,6 +19,11 @@ body{
 }
 /* Navigation Bar Ends*/
 
+#container{
+    margin: 0;
+    max-width: 1490px;
+}
+
 /*Start Home Page*/
 .title{
     font-family:"Kaisei Decol",verdana, Arial, sans-serif;

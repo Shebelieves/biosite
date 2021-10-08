@@ -128,6 +128,8 @@ h1{
 a:link{
     text-decoration: none;
     color: black;
+    font-family:"libre baskerville",verdana, Arial,sans-serif;
+    font-weight: 400;
 }
 footer{
     text-align: center;

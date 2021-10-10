@@ -20,10 +20,9 @@ body{
 /* Navigation Bar Ends*/
 
 #container{
-    margin: 0;
+    margin: 0 auto;
     max-width: 1490px;
 }
-
 /*Start Home Page*/
 .title{
     font-family:"Kaisei Decol",verdana, Arial, sans-serif;
@@ -133,9 +132,11 @@ footer{
     width: 100%;
     background-color: #735d5d;
     clear:left;
-    font-family:"Kaisei Decol",verdana, Arial, sans-serif;
-    font-weight: 400;
-    font: bold;
+}
+.copy{
+    color: black;
+    font:bold;
+    font-weight: 600;
 }
 
 .grace{

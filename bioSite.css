@@ -133,10 +133,10 @@ footer{
     clear:left;
 }
 .copy{
-    color: black;
+    color: white;
     font-family: "libre baskerville",verdana, Arial,sans-serif;
     font:bold;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 .grace{
